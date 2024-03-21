@@ -45,8 +45,8 @@
 }
 .img-fluid
 {
-	min-height: 150px;
-	max-height: 350px;
+	min-height: 200px;
+	max-height: 450px;
 }
 .card
 {
