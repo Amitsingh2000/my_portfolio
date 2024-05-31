@@ -11,10 +11,14 @@ $(document).ready(function() {
   });
    // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Student", "Fresher", "Java Developer", "Programmer"],
+        strings: ["Student", "Fresher", "Full Stack Developer", "Programmer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
 });
+function downloadcv()
+		{
+			window.location.href = './Amit_Pardeshi_2024.pdf';
+		}
