@@ -20,5 +20,5 @@ $(document).ready(function() {
 });
 function downloadcv()
 		{
-			window.location.href = './Amit_Pardeshi_2024.pdf';
+			window.location.href = 'https://github.com/Amitsingh2000/my_portfolio/blob/main/Amit_Pardeshi_2024.pdf';
 		}
